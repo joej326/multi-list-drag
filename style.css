@@ -1,0 +1,10 @@
+div.sort{
+    border:1px solid black;
+    display:inline;
+    width:175px;
+    float:left;
+}
+ul{
+    height:200px;
+    width:175px;
+}
